@@ -1,0 +1,9 @@
+ssh-keygen -t rsa -b 4096 -C "ks492056@gmail.com"
+
+go to the location and ssh public key location in my laptop it is C:\Users\Surendra Chaluvadi\.ssh
+
+copy public key 
+
+Login to git hub account 
+
+navigate to Setting and under settings find ssh and GPG key then paste the copied public key
